@@ -1,0 +1,11 @@
+user.name=Dhananjai
+user.email=dhananjaikrpandey@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+submodule.active=.
+remote.origin.url=https://github.com/dhananjai-kp/InetBanking.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master

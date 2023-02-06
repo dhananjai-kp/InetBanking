@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9899c7ba-0906-4e17-bbab-fca04eec5bfe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Drivers/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Drivers/chromedriver1.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/application.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/testlog.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/testlog1.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sword authentication was removed on August 13, 2021." afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Configuration/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Configuration/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/inetbanking/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/inetbanking/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/inetbanking/testCases/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/TC_LoginTest_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/inetbanking/testCases/TC_LoginTest_001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/TC_LoginTest_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/inetbanking/testCases/TC_LoginTest_002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/ReadConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/inetbanking/utilities/ReadConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/Reporting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/inetbanking/utilities/Reporting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/XLUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/inetbanking/utilities/XLUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
