@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9899c7ba-0906-4e17-bbab-fca04eec5bfe" name="Changes" comment="" />
+    <list default="true" id="9899c7ba-0906-4e17-bbab-fca04eec5bfe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Drivers/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drivers/chromedriver1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/application.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/testlog.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/testlog1.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configuration/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Configuration/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/inetbanking/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/inetbanking/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/inetbanking/testCases/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/TC_LoginTest_001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/inetbanking/testCases/TC_LoginTest_001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/inetbanking/testCases/TC_LoginTest_002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/inetbanking/testCases/TC_LoginTest_002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/ReadConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/inetbanking/utilities/ReadConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/Reporting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/inetbanking/utilities/Reporting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/inetbanking/utilities/XLUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/inetbanking/utilities/XLUtils.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +32,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/io/FileNotFoundException.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/lang/NullPointerException.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/.jdks/corretto-17.0.6/lib/src.zip!/java.base/java/util/Properties.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -21,17 +49,84 @@
     </option>
   </component>
   <component name="ProjectId" id="2Klw8xrElvxfOWbViyftJfn40oK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Facets&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./home/dhananjai/IdeaProjects/InetBanking/testng.xml">
+    <configuration name="TC_LoginTest_001" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InetBanking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inetbanking.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="inetbanking.testCases" />
+      <option name="MAIN_CLASS_NAME" value="inetbanking.testCases.TC_LoginTest_001" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_LoginTest_001.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InetBanking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="inetbanking.testCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="inetbanking.testCases" />
+      <option name="MAIN_CLASS_NAME" value="inetbanking.testCases.TC_LoginTest_001" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/dhananjai/IdeaProjects/InetBanking/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InetBanking" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./home/dhananjai/IdeaProjects/InetBanking/testng.xml" />
+        <item itemvalue="TestNG.TC_LoginTest_001.loginTest" />
+        <item itemvalue="TestNG.TC_LoginTest_001" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,5 +160,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
