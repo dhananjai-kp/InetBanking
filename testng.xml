@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="/home/dhananjai/IdeaProjects/InetBanking">
-        <parameter name="browser" value="chrome" />
+        <parameter name="browser" value="edge" />
         <classes>
             <class name="inetbanking.testCases.TC_LoginTest_001">
                 <methods>
